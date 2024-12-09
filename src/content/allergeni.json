@@ -1,0 +1,73 @@
+{
+  "allergeni": [
+    {
+      "nome": "Arachidi",
+      "descrizione": "Un legume frequentemente utilizzato in snack, burri, dolci e cibi asiatici. Le reazioni allergiche possono includere difficoltà respiratorie, gonfiore e anafilassi.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/0/icona.png"
+    },
+    {
+      "nome": "Anidride solforosa e solfiti",
+      "descrizione": "Conservanti comuni in vino, birra, frutta secca e prodotti trasformati. Possono causare reazioni in persone asmatiche o sensibili, come problemi respiratori."
+    },
+    {
+      "nome": "Crostacei",
+      "descrizione": "Include frutti di mare come gamberi, granchi, aragoste e scampi, spesso usati in piatti di pesce e zuppe. Possono causare reazioni allergiche gravi come anafilassi.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/2/icona.png"
+    },
+    {
+      "nome": "Frutta a guscio",
+      "descrizione": "Include noci, mandorle, nocciole, anacardi, pistacchi e simili. Utilizzata in dolci, barrette energetiche e condimenti. Può causare reazioni allergiche gravi, come l'anafilassi.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/3/icona.png"
+    },
+    {
+      "nome": "Glutine",
+      "descrizione": "Una proteina presente nei cereali come grano, orzo, segale e avena, utilizzata spesso in prodotti da forno, pasta e cereali per colazione. Può causare problemi digestivi e infiammazioni nelle persone affette da celiachia.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/4/icona.png"
+    },
+    {
+      "nome": "Latte",
+      "descrizione": "Include il latte di mucca e derivati come formaggi, burro, yogurt e panna. Può causare sintomi respiratori, cutanei e digestivi, particolarmente nei bambini.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/5/icona.png"
+    },
+    {
+      "nome": "Lupini",
+      "descrizione": "Un legume utilizzato in farine, snack e pasta senza glutine. Può causare reazioni allergiche simili a quelle delle arachidi, inclusa l'anafilassi.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/6/icona.png"
+    },
+    {
+      "nome": "Molluschi",
+      "descrizione": "Include cozze, ostriche, calamari, vongole e polpi. Utilizzati in piatti di pesce, possono causare reazioni allergiche gravi come anafilassi.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/7/icona.png"
+    },
+    {
+      "nome": "Pesce",
+      "descrizione": "Include varietà come tonno, salmone, merluzzo e acciughe. È utilizzato in piatti principali, salse come la worcester e condimenti per insalate. Può causare reazioni allergiche potenzialmente gravi.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/8/icona.png"
+    },
+    {
+      "nome": "Sedano",
+      "descrizione": "Utilizzato in zuppe, brodi, insalate e condimenti. Il sedano può causare reazioni allergiche, specialmente in forma cruda o come spezia.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/9/icona.png"
+    },
+    {
+      "nome": "Senape",
+      "descrizione": "Presente in condimenti come mostarde e salse, oltre che in alcune marinate e piatti speziati. Può causare reazioni allergiche sia lievi che gravi.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/10/icona.png"
+    },
+    {
+      "nome": "Sesamo",
+      "descrizione": "Usato in pane, snack, salse come tahini e in ricette etniche. I semi di sesamo possono provocare reazioni allergiche severe come difficoltà respiratorie.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/11/icona.png"
+    },
+    {
+      "nome": "Soia",
+      "descrizione": "Un legume usato in alimenti trasformati come tofu, latte di soia, salse e proteine vegetali. Può causare reazioni allergiche come eruzioni cutanee e problemi gastrointestinali.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/12/icona.png"
+    },
+    {
+      "nome": "Uova",
+      "descrizione": "Un allergene comune presente sia nel bianco che nel tuorlo. Utilizzato in prodotti da forno, pasta fresca, salse come la maionese e piatti elaborati come le omelette.",
+      "icona": "/src/assets/img/cms/allergeni/allergeni/13/icona.png"
+    }
+  ]
+}
